@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @1n3Tech
-- 👀 I’m interested in front-end web dev
-- 🌱 I’m currently learning react js
+- 👋 Hi, Welcome to @1n3Tech
+- 👀 I’m interested in front-end back-end web3 dev
+- 🌱 I’m currently in Jos Nigeria
 - 💞️ I’m looking to collaborate on general webdev projects
-- 📫 How to reach me waveofsilence2@gmail.com
+- 📫 How to reach me: mantimdanzaki@gmail.com 
 
 <!---
 1n3Tech/1n3Tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
